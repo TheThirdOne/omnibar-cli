@@ -1,0 +1,10 @@
+{
+  "name": "Prompt Test",
+  "manifest_version": 2,
+  "version": "0.1.0",
+  "omnibox": { "keyword" : "prompt" },
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  }
+}
