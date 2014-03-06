@@ -5,6 +5,6 @@
   "omnibox": { "keyword" : "prompt" },
   "background": {
     "persistent": false,
-    "scripts": ["suggestions.js","parse.js","main.js"]
+    "scripts": ["lib/suggestions.js","lib/parse.js","lib/main.js"]
   }
 }
